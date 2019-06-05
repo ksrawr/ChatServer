@@ -38,6 +38,7 @@ gcc *.c -o server
 ### Client
 
 Will prompt the user a menu:
+
 0. Connect to Server
 1. Get the user list
 2. Send a message
